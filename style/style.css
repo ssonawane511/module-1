@@ -28,17 +28,13 @@
   color: rgba(255, 255, 255, 0.705);
 }
 
-.color-button {
-  display: flex;
-  flex-flow: row-reverse;
-}
 .color-button button {
   background: none !important;
 
   padding: 10px;
   width: 100px;
   border-radius: 25px;
-  margin: 0 10px;
+  margin: 10px 10px;
   border: 0px;
   outline: 0px;
   transition: 0.5s;
